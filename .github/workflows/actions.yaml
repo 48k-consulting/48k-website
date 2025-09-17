@@ -1,11 +1,14 @@
 name: Deploy 48k.com.au Astro website to GitHub Pages
 
+# Manual prerequisite
+# Repo - Settings - Pages - Build and deployment - Source = GitHub Actions
+
 on:
   push:
     branches:
       - main
   workflow_dispatch: 
-    
+
 permissions:
   contents: read
   pages: write
