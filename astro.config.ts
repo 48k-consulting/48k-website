@@ -43,6 +43,11 @@ export default defineConfig({
           'voice-presentation',
           'business-contact',
           'database',
+          'services',
+          'serial-tasks',
+          'electronics',
+          'mind-map',
+          'about'
         ],
       },
     }),
