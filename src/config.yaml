@@ -63,6 +63,7 @@ analytics:
   vendors:
     googleAnalytics:
       id: G-RWEQLXWZC8
+      partytown: false
 
 ui:
   theme: 'light' # Values: "system" | "light" | "dark" | "light:only" | "dark:only"
